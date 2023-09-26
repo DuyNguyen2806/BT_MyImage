@@ -1,0 +1,10 @@
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\LTTMTW-BT\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\LTTMTW-BT\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\LTTMTW-BT\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\LTTMTW-BT\WindowsFormsApp1\obj\Debug\BaiTap.csproj.AssemblyReference.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\LTTMTW-BT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\LTTMTW-BT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\LTTMTW-BT\WindowsFormsApp1\obj\Debug\BaiTap.csproj.GenerateResource.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\LTTMTW-BT\WindowsFormsApp1\obj\Debug\BaiTap.csproj.CoreCompileInputs.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\LTTMTW-BT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\LTTMTW-BT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
